@@ -1,0 +1,7 @@
+Alt Shift Down -> Cópia a linha
+
+div#conteudo -> cria <div id="conteudo"></div>
+div.estilo-1 -> cria <div class="estilo-1"></div>  
+div#teste.estilo-2 -> cria <div id="teste" class="estilo-2"></div> 
+img[src] -> <img src="" alt="">
+p[teste] -> <p teste=""></p>
